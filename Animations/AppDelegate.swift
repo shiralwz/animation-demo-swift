@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Animations
 //
-//  Created by 王筝 on 16/1/15.
+//  Created by wz on 16/1/15.
 //  Copyright © 2016年 iwangzheng.com. All rights reserved.
 //
 
